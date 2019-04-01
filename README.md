@@ -1,5 +1,6 @@
 [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 [![Build Status](https://travis-ci.org/mezlet/test-demo-app.svg?branch=master)](https://travis-ci.org/mezlet/test-demo-app)
+[![Coverage Status](https://coveralls.io/repos/github/mezlet/test-demo-app/badge.svg?branch=master)](https://coveralls.io/github/mezlet/test-demo-app?branch=master)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
