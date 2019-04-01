@@ -12,7 +12,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "jest && npm run coverage",
+    "test": "jest --coverage --coverageReporters=text-lcov | coveralls",
     "coverage": "nyc report --reporter=lcov --reporter=text-lcov | coveralls",
     "eject": "react-scripts eject"
   },
