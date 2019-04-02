@@ -12,8 +12,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "jest --coverage --coverageReporters=text-lcov | coveralls",
-    "coverage": "nyc report --reporter=lcov --reporter=text-lcov | coveralls",
+    "test": "jest --coverage ",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
